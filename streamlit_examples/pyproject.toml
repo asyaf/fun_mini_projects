@@ -2,7 +2,7 @@
 name = "streamlit-test"
 version = "0.1.0"
 description = ""
-authors = ["asyafEvinced <asya.frumkin@evinced.com>"]
+authors = ["asyaf"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
