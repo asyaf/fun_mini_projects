@@ -54,7 +54,7 @@ def predict(model, categories, image):
 
 
 def main():
-    st.title('Pretrained Model demo')
+    st.title('Pretrained model demo')
     model = load_model()
     categories = load_labels()
     image = load_image()
